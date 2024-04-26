@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# Registro de Estudiantes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto es una aplicación web desarrollada con React.js y Node.js que permite registrar los datos de un estudiante.
 
-## Available Scripts
+## Empezando
 
-In the project directory, you can run:
+Este proyecto fue inicializado con [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm start`
+### Instalación
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+1. Clona este repositorio: `git clone https://github.com/tu-usuario/tu-repositorio.git`
+2. Navega hasta el directorio del proyecto: `cd student-registration-app`
+3. Instala las dependencias: `npm install`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Scripts Disponibles
 
-### `npm test`
+En el directorio del proyecto, puedes ejecutar:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### `npm start`
 
-### `npm run build`
+Ejecuta la aplicación en el modo de desarrollo.\
+Abre [http://localhost:3000](http://localhost:3000) para verla en tu navegador.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+La página se recargará automáticamente cuando hagas cambios.\
+También verás errores de lint en la consola.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### `npm test`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Lanza el corredor de pruebas en el modo interactivo de observación.\
+Consulta la sección sobre [ejecución de pruebas](https://facebook.github.io/create-react-app/docs/running-tests) para más información.
 
-### `npm run eject`
+#### `npm run build`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Construye la aplicación para producción en la carpeta `build`.\
+Empaqueta correctamente React en modo de producción y optimiza la compilación para obtener el mejor rendimiento.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+La compilación se minimiza y los nombres de archivo incluyen los hash.\
+Tu aplicación está lista para ser desplegada.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Consulta la sección sobre [despliegue](https://facebook.github.io/create-react-app/docs/deployment) para más información.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Más Recursos
 
-## Learn More
+- [Documentación de Create React App](https://facebook.github.io/create-react-app/docs/getting-started)
+- [Documentación de React](https://reactjs.org/)
+- [Documentación de Node.js](https://nodejs.org/en/docs/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contribución
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+¡Estamos abiertos a recibir contribuciones! Si quieres contribuir a este proyecto, sigue estos pasos:
 
-### Code Splitting
+1. Haz un fork del repositorio.
+2. Crea una nueva rama: `git checkout -b feature/nueva-caracteristica`.
+3. Haz tus cambios y haz commit: `git commit -m "Agrega una nueva característica"`.
+4. Sube tus cambios a tu repositorio: `git push origin feature/nueva-caracteristica`.
+5. Envía un pull request para revisión.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Licencia
 
-### Analyzing the Bundle Size
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
